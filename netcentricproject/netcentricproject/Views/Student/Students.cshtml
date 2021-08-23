@@ -1,0 +1,50 @@
+﻿@model IEnumerable< StudentModel>
+
+@{
+    ViewData["Title"] = "Students";
+    int studentCounter = 1;
+}
+
+<h1>Students</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+              S.No.
+            </th>
+            <th>
+               Name
+            </th>
+            <th>
+              Roll
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+              @studentCounter
+            </td>
+            <td>
+                @item.Name
+            </td>
+            <td>
+               @item.Roll
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { studentId = item.StudentId }) |
+
+                @Html.ActionLink("Delete", "Delete", new { studentId = item.StudentId }) |
+
+                @Html.ActionLink("Marks", "StudentMarks", "Marks" , new { studentId = item.StudentId }) 
+            </td>
+        </tr>
+    studentCounter++;
+}
+    </tbody>
+</table>

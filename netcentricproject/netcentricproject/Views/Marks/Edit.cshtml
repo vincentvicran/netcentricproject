@@ -1,0 +1,57 @@
+﻿@model netcentricproject.Models.MarksModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>MarksModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div>
+                Edit the obtained marks for:
+            </div>
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            @*<div class="form-group">
+                <label asp-for="MarksId" class="control-label"></label>
+                <input asp-for="MarksId" class="form-control" />
+                <span asp-validation-for="MarksId" class="text-danger"></span>
+            </div>*@
+
+            <div class="form-group">
+                <label asp-for="StudentName" class="control-label">Student Name</label>
+                @Html.DropDownListFor(x => x.StudentId, ViewBag.Students as SelectList, "--Select Student--", new { @class = "form-control" })
+                @*<input asp-for="StudentId" class="form-control"/>*@
+                <span asp-validation-for="StudentId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="SubjectName" class="control-label">Subject Name</label>
+                @Html.DropDownListFor(x => x.SubjectId, ViewBag.Subjects as SelectList, "--Select Subject--", new { @class = "form-control" })
+                @*<input asp-for="SubjectName" class="form-control"/>*@
+                <span asp-validation-for="SubjectName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ObtainedMarks" class="control-label"></label>
+                <input asp-for="ObtainedMarks" class="form-control" />
+                <span asp-validation-for="ObtainedMarks" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    
+</div>
+
+<div>
+    <a asp-action="MarksIndex">Back to List</a>
+</div>
+

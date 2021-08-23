@@ -1,0 +1,49 @@
+﻿@model IEnumerable<netcentricproject.Models.SubjectModel>
+
+@{
+    ViewData["Title"] = "SubjectIndex";
+    int subjectcounter = 1;
+}
+
+<h1>SubjectIndex</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                S.No.
+            </th>
+            <th>
+                Subject Name
+
+            </th>
+           
+          
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+
+                    @subjectcounter
+                </td>
+               
+                <td>
+                    @item.SubjectName
+                </td>
+               
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { subjectId = item.SubjectId }) |
+                    @*@Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |*@
+                    @Html.ActionLink("Delete", "Delete", new { subjectId = item.SubjectId })
+                </td>
+            </tr>
+            subjectcounter++;
+        }
+    </tbody>
+</table>

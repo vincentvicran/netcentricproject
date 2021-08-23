@@ -1,0 +1,350 @@
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\appsettings.Development.json
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\appsettings.json
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.exe
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.deps.json
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.runtimeconfig.json
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.runtimeconfig.dev.json
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ref\SQLconnector.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.pdb
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.Views.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.Views.pdb
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Humanizer.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\NPOI.OOXML.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\NPOI.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\System.IO.Packaging.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\DAL.dll
+E:\net centric\SQLconnector\SQLconnector\bin\Debug\net5.0\DAL.pdb
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.csprojAssemblyReference.cache
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.GeneratedMSBuildEditorConfig.editorconfig
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.AssemblyInfoInputs.cache
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.AssemblyInfo.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.csproj.CoreCompileInputs.cache
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.MvcApplicationPartsAssemblyInfo.cache
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.RazorAssemblyInfo.cache
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.RazorAssemblyInfo.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\staticwebassets\SQLconnector.StaticWebAssets.Manifest.cache
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\staticwebassets\SQLconnector.StaticWebAssets.xml
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\scopedcss\bundle\SQLconnector.styles.css
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.TagHelpers.input.cache
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.TagHelpers.output.cache
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.RazorCoreGenerate.cache
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Marks\Create.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Marks\Edit.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Marks\MarksIndex.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\AddUpdateClass.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\ClassIndex.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\Students.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.RazorTargetAssemblyInfo.cache
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.RazorTargetAssemblyInfo.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.Views.pdb
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.csproj.CopyComplete
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.dll
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\ref\SQLconnector.dll
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.pdb
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.genruntimeconfig.cache
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Marks\Delete.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Subject\Create.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Subject\Edit.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Subject\Delete.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Subject\SubjectIndex.cshtml.g.cs
+E:\net centric\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Marks\StudentMarks.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\appsettings.Development.json
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\appsettings.json
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.exe
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.deps.json
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.runtimeconfig.json
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.runtimeconfig.dev.json
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ref\SQLconnector.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.pdb
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.Views.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\SQLconnector.Views.pdb
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Humanizer.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\NPOI.OOXML.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\NPOI.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\System.IO.Packaging.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\DAL.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\bin\Debug\net5.0\DAL.pdb
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.csprojAssemblyReference.cache
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.AssemblyInfoInputs.cache
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.AssemblyInfo.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.csproj.CoreCompileInputs.cache
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.RazorAssemblyInfo.cache
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.RazorAssemblyInfo.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\staticwebassets\SQLconnector.StaticWebAssets.Manifest.cache
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\staticwebassets\SQLconnector.StaticWebAssets.xml
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\scopedcss\bundle\SQLconnector.styles.css
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.TagHelpers.input.cache
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.TagHelpers.output.cache
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.RazorCoreGenerate.cache
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Marks\Create.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Marks\Delete.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Marks\Edit.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Marks\MarksIndex.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Marks\StudentMarks.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\AddUpdateClass.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\ClassIndex.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Student\Students.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Subject\Create.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Subject\Delete.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Subject\Edit.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\Subject\SubjectIndex.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.RazorTargetAssemblyInfo.cache
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.RazorTargetAssemblyInfo.cs
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.Views.pdb
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.csproj.CopyComplete
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\ref\SQLconnector.dll
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.pdb
+E:\Project\netcentricproject\SQLconnector\SQLconnector\obj\Debug\net5.0\SQLconnector.genruntimeconfig.cache

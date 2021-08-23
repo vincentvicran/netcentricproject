@@ -1,0 +1,59 @@
+﻿@model IEnumerable<netcentricproject.Models.MarksModel>
+
+@{
+    ViewData["Title"] = "MarksIndex";
+    int markscounter = 1;
+}
+
+<h1>MarksIndex</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                S.No.
+            </th>
+            <th>
+                Student Name
+               
+            </th>
+            <th>
+                Subject Name
+               
+            </th>
+            <th>
+                Marks
+               
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+             
+                @markscounter
+            </td>
+            <td>
+                @item.StudentName
+            </td>
+            <td>
+                @item.SubjectName
+            </td>
+            <td>
+                @item.ObtainedMarks
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { MarkId=item.MarksId }) |
+                @*@Html.ActionLink("Details", "Details", new {  }) |*@
+                @Html.ActionLink("Delete", "Delete", new {  MarkId=item.MarksId })
+            </td>
+        </tr>
+    markscounter++;
+}
+    </tbody>
+</table>

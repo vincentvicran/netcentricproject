@@ -1,0 +1,9 @@
+E:\net centric\SQLconnector\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+E:\net centric\SQLconnector\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\net centric\SQLconnector\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\net centric\SQLconnector\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+E:\net centric\SQLconnector\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+E:\net centric\SQLconnector\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+E:\net centric\SQLconnector\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+E:\net centric\SQLconnector\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+E:\net centric\SQLconnector\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

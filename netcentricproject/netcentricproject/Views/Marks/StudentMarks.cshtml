@@ -1,0 +1,74 @@
+﻿@model IEnumerable<DAL.MarksModels>
+
+@{
+    ViewData["Title"] = "StudentMarks";
+    int marksCounter = 1;
+}
+
+<h1>StudentMarks</h1>
+
+@if (Model.ToList().Count>0)
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th colspan="3" class="text-center">
+                Marks Sheet of @Model.ToList()[0].StudentName
+            </th>
+        </tr>
+        <tr>
+            <th>
+                S.No.
+            </th>
+
+
+            <th>
+                @Html.DisplayNameFor(model => model.SubjectName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.ObtainedMarks)
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @marksCounter
+                </td>
+
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.SubjectName)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.ObtainedMarks)
+                </td>
+
+            </tr>
+
+            marksCounter++;
+        }
+        <tr style="font-weight:bold">
+            <td colspan="2" class="text-right">
+                Total
+            </td>
+            <td>
+                @Model.Sum(x => x.ObtainedMarks)
+            </td>
+        </tr>
+
+    </tbody>
+</table>
+}
+
+else
+{
+    <p>
+        No Result found!!!
+    </p>
+}
